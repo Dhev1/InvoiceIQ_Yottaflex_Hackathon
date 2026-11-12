@@ -1,0 +1,14 @@
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\bin\Debug\net10.0\InvoiceIQ.DataGenerator.exe
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\bin\Debug\net10.0\InvoiceIQ.DataGenerator.deps.json
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\bin\Debug\net10.0\InvoiceIQ.DataGenerator.runtimeconfig.json
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\bin\Debug\net10.0\InvoiceIQ.DataGenerator.dll
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\bin\Debug\net10.0\InvoiceIQ.DataGenerator.pdb
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.AssemblyInfoInputs.cache
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.AssemblyInfo.cs
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.csproj.CoreCompileInputs.cache
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.dll
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\refint\InvoiceIQ.DataGenerator.dll
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.pdb
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\InvoiceIQ.DataGenerator.genruntimeconfig.cache
+C:\CandidateWorkspace\backend\InvoiceIQ.DataGenerator\obj\Debug\net10.0\ref\InvoiceIQ.DataGenerator.dll

@@ -1,0 +1,37 @@
+{
+  "seed": 20261022,
+  "recordCounts": {
+    "vendors": 300,
+    "purchaseOrders": 1500,
+    "purchaseOrderLines": 2200,
+    "goodsReceipts": 1800,
+    "goodsReceiptLines": 3100,
+    "invoices": 2000,
+    "invoiceLines": 2000,
+    "groundTruth": 2000
+  },
+  "scenarioCounts": {
+    "CLEAN": 1400,
+    "DUPLICATE_INVOICE": 100,
+    "MISSING_RECEIPT": 80,
+    "PRICE_VARIANCE": 200,
+    "QUANTITY_MISMATCH": 160,
+    "TAX_VENDOR_ERROR": 60
+  },
+  "referentialIntegrity": {
+    "invalidPoVendorReferences": 0,
+    "invalidPoLineReferences": 0,
+    "invalidGrnReferences": 0,
+    "invalidGrnLineReferences": 0,
+    "invalidInvoiceReferences": 0,
+    "invalidInvoiceLineReferences": 0,
+    "invalidGroundTruthReferences": 0
+  },
+  "businessValidation": {
+    "invalidInvoiceTotals": 0,
+    "invoicesWithoutLines": 0,
+    "duplicateInvoiceNumbers": 100
+  },
+  "allReferenceChecksPassed": true,
+  "allInvoiceTotalsPassed": true
+}

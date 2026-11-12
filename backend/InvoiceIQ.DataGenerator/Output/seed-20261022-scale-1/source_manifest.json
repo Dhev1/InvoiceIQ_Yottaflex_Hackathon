@@ -1,0 +1,20 @@
+{
+  "generator": "InvoiceIQ.DataGenerator",
+  "version": "1.0.0",
+  "seed": 20261022,
+  "recordCounts": {
+    "vendors": 300,
+    "purchaseOrders": 1500,
+    "purchaseOrderLines": 2200,
+    "goodsReceipts": 1800,
+    "goodsReceiptLines": 3100,
+    "invoices": 2000,
+    "invoiceLines": 2000,
+    "groundTruth": 2000
+  },
+  "exportFormats": [
+    "CSV",
+    "JSON",
+    "PostgreSQL staging SQL"
+  ]
+}
